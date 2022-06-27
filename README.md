@@ -4,11 +4,11 @@ This project is a simple virtual reality game consisting of 1 level.
 
 ## Game Guide
 
-### Character Guide 
+### Character Guide
 
 You can choose one character. His name is Arte. He has personality disorder and also amnesia. He's a man who lost his journal and doesn't remember anything.
 
-[Arte](Arte.png)
+![Arte](Arte.png)
 
 ### Beginner’s Guide
 
